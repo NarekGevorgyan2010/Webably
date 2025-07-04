@@ -1,0 +1,275 @@
+body{
+    background-color:#0F4C81;
+}
+nav{
+     display: flex;
+    flex-direction: row;
+    justify-content: space-between; 
+     background-color: #2E86AB;
+    padding: 10px;
+    border-radius: 20px;
+}
+img{
+width: 100px;
+border-radius: 10px;
+}
+.linker button{
+width: 100px;
+height: 50px;
+border-radius: 10px;
+background-color:#62d696;
+color: #FFFFFF;
+}
+.linker button:hover{
+width: 100px;
+height: 50px;
+border-radius: 10px;
+color: #FFFFFF;
+background-color:#2E8B57;
+}
+footer{
+text-align: center;
+    padding: 20px;
+    height: 200px;
+    background-color: #033969;
+    color:#B0BEC5;
+    border-radius: 20px;
+}
+footer a{
+    color:#B0BEC5;
+}
+footer p{
+   margin: auto;
+  width: 1500px;
+    color:#B0BEC5;
+}
+.linker{
+    padding:25px;
+}
+p{
+    width: 400px;
+}
+.aboutus{
+    display: flex;
+    flex-direction: row;
+    gap:300px;
+    color:#B0BEC5;
+    padding: 50px;
+}
+.aboutus img{
+ width: 210px;
+ height: 210px;
+border-radius: 30px;
+}
+.portfolyo{
+
+    padding: 10px 100px;
+    display: flex;
+    flex-direction: row;
+    gap:100px;
+  
+    color: #B0BEC5;
+     width: 900px;
+}
+.parking{
+display: flex;
+flex-direction: column;
+gap:30px;
+}
+.jermoc{
+display: flex;
+flex-direction: column;
+gap:50px;
+}
+.parking img{
+    width: 500px;
+}
+.jermoc img{
+    width: 500px;
+}
+.port{
+    padding: 100px;
+}
+.login{
+    display:flex;
+    flex-direction: column;
+    padding: 60px;
+text-align:left;
+gap:60px;
+}
+.login div{
+    width: 200px;
+    color: rgb(59, 59, 245);
+}
+input{
+    width: 300px;
+background-color:  rgb(59, 59, 245);;
+    color:  rgb(255, 255, 255);
+}
+.order{
+
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+}
+.order-img img{
+    padding: 25px;
+    width: 550px;
+    border-radius: 40px;
+}
+.order-img {
+  display: flex;
+    flex-direction: column;
+  
+}
+.save{
+    display: flex;
+    flex-direction: row;
+    gap:250px;
+}
+.save button{
+    width: 150px;
+    background-color:  rgb(59, 59, 245);;
+    color:  rgb(255, 255, 255);
+}
+
+
+
+.sign{
+    padding: 10px;
+display: flex;
+flex-direction: column;
+gap: 50px;
+   margin: 100px auto 0 auto;
+    width: 350px;
+    height: 500px;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+      background-color: #2E86AB;
+}
+.inputt{
+    text-align: center;
+    color: #e6f4f1;
+    display: flex;
+    flex-direction: column;
+    gap:30px;
+}
+.inputtt{
+    text-align: center;
+    color: #e6f4f1;
+    display: flex;
+    flex-direction: column;
+  
+}
+.logg{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+   
+}
+.logg button {
+       margin: 30px ;
+         width: 100px; 
+   padding: 10px;
+    background-color:#62d696;
+color: #FFFFFF;
+height: 40px;
+border-radius: 10px;
+}
+
+.logg button:hover{
+width: 100px; 
+height: 40px;
+border-radius: 10px;
+color: #FFFFFF;
+background-color:#2E8B57;}
+.sign input{
+ margin: 30px;
+    text-align: center;
+  background-color: #e6f4f1;
+  border: 2px solid #2a8bad;
+  color: #084a82;
+  padding: 10px 15px;
+  border-radius: 8px;
+  width: 70%;
+  margin-bottom: 15px;
+}
+.log{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+   
+}
+.log button {
+       margin: 30px ;
+         width: 100px; 
+   padding: 10px;
+    background-color:#62d696;
+color: #FFFFFF;
+height: 40px;
+border-radius: 10px;
+}
+
+.log button:hover{
+width: 100px; 
+height: 40px;
+border-radius: 10px;
+color: #FFFFFF;
+background-color:#2E8B57;}
+
+
+
+
+    .h{
+      color: blue;
+    }
+
+    .sing {
+      background: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      width: 300px;
+    }
+
+    .sing h2 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .sing input {
+      width: 100%;
+      padding: 10px;
+      margin: 8px 0;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+
+
+ 
+
+  
+
+    .login button {
+      width: 100%;
+      padding: 10px;
+      background: orange;
+      border: none;
+      border-radius: 5px;
+      color: white;
+     font-weight: bold;
+      cursor: pointer;
+    }
+
+    .login button:hover {
+      background: darkorange;
+    }
+    .logo{
+      width: 300px;
+      height: 300px;
+      display:block;
+      margin-inline-start: -50px;
+      border-radius: 500px;
+      object-fit: cover;
+    }
+    
